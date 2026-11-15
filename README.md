@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Shane Sweeney
 
-Senior Quality Engineer and Java developer with 15+ years in test automation, QA leadership, and full-stack development across banking, insurance, fintech, and healthcare.
+Quality Engineering Lead and Java developer with 15+ years in test automation, QA leadership, and full-stack development across banking, insurance, fintech, and healthcare.
 
 **🔎 Open to Senior QE, SDET, and Java Developer roles (remote).**
 
